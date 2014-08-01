@@ -1,0 +1,16 @@
+﻿html, body, form { HEIGHT: 100%; }
+body {
+    LINE-HEIGHT: 1; WIDTH: 100%; HEIGHT: 100%;  FONT-FAMILY: "Open Sans" , "Segoe UI" ,Arial,sans-serif; COLOR: White;
+    background-image:url('/Images/brImage2.jpg');
+    background-color:#bfdbff;
+}
+.osmHeaderClass, #osmLogo a { WIDTH: 995px; FONT: 48px 'Trebuchet MS' !important; HEIGHT: 75px; }
+.osmHeaderClass { POSITION: fixed; TOP: 0; Z-INDEX: 98; WIDTH: 995px; BACKGROUND-COLOR: White; }
+.osmHeaderContainerClass { WIDTH: 1000px; MARGIN: auto; }
+#osmMenuAtTheTop span a { FONT-FAMILY: "Open Sans" , "Segoe UI" ,Arial,sans-serif; FONT-SIZE: 13px; TEXT-DECORATION: none; COLOR: #3e3e3e; }
+#osmMenuAtTheTop span { PADDING: 0 10px; }
+.centerAlignedDiv { WIDTH: 995px; MIN-HEIGHT: 100%; HEIGHT: auto !important; BACKGROUND-COLOR: #ffffff; MARGIN: auto auto -60px; }
+.osmHeaderClass, #osmLogo a { WIDTH: 995px; FONT: 48px 'Trebuchet MS' !important; HEIGHT: 75px; }
+#osmLogo { LETTER-SPACING: 1.5px; FLOAT: left; WIDTH: 300px; PADDING: 10px 0 5px 45px; MARGIN-TOP: 6px; }
+#osmLogo a, .contentBox a, .contentBoxNarrow a , #navLink a { COLOR: #2b9ea6; TEXT-DECORATION: none; FONT-SIZE: 13px; }
+
